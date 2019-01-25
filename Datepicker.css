@@ -1,0 +1,53 @@
+.twelve {
+  width: 12%
+}
+
+.center {
+  text-align: center;
+}
+
+.days {
+  width: 100%;
+  border: none;
+  background: #1C1C1C;
+  color: #E6E6E6;
+  cursor: pointer;
+  border-radius: 3px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.datePickerTab {
+  background-color: cornsilk;
+  border: 1px solid black;
+  position: absolute;
+  color: #1C1C1C;
+  width: 0px;
+  height: auto;
+  opacity: 0;
+  border-radius: 5px;
+}
+
+.btnTraverse {
+  background: #1C1C1C;
+  color: #E6E6E6;
+  border: none;
+  width: 100%;
+  padding: 0;
+  cursor: pointer;
+  font-size: large;
+  border-radius: 3px;
+}
+
+.moyr {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0;
+  margin: 0;
+}
+
+.curDay {
+  border: 2px solid #1C1C1C;
+  color: #1C1C1C;
+  background-color: #FFFFFF;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
